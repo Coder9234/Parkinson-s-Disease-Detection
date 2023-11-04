@@ -7,26 +7,26 @@ Our objective of this project is to compare the accuracy of different models and
 Dataset link: https://drive.google.com/drive/u/0/my-drive
 
 ## Working:
-Step 1: Firstly, we are applying data preprocessing.
+Step 1: Firstly, we have applied data preprocessing.
 
-Step 2: Plotting a pie chart which demonstrates the distribution of status attribute.
+Step 2: Plotted a pie chart which demonstrates the distribution of status attribute.
 
-Step 3: Defining the correlation features.
+Step 3: Defined the correlation features.
 
-Step 4: Finding the P_value of every column.
+Step 4: Calculated the P_value of every column.
 
-Step 5: Applying standardization over the given data.
+Step 5: Applied standardization over the given data.
 
-Step 6: Splitting the data into training set and test set.
+Step 6: Splitted the data into training set and test set.
 
 Step 7: Using RandomOverSampler class to handle the imbalanced data.
 
-Step 8: Implementing different ML models like Logistic Regression, Random Forest, Decision Tree, SVM and KNN. We have also made the confusion matrix and AUC curves of the given model.
+Step 8: Implemented different ML models like Logistic Regression, Random Forest, Decision Tree, SVM and KNN. We have also made the confusion matrix and AUC curves of the given model.
 
-Step 9: Calculating the accuracy of different models.
+Step 9: Calculated the accuracy of different models.
 
-Step 10: Defining a function for comparison of these modelson the basis of there AUC score, train and test accuracy.
+Step 10: Made a function for comparison of these modelson the basis of there AUC score, train and test accuracy.
 
-Step 11: Applying Cross validation to remove over fitting.
+Step 11: Applied Cross validation to remove over fitting.
 
 To see the working of the model, you can visit this link: https://colab.research.google.com/drive/10AruDzPfwVANmQSyrg64N4xv0v9fWODh?usp=sharing#scrollTo=lNrhM_rYZbFZ
